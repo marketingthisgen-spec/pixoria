@@ -2,6 +2,9 @@
 ##Admob
 google.com, pub-4317531761195540, DIRECT, f08c47fec0942fa0
 
+##Admob 2
+google.com, pub-8377240799885200, DIRECT, f08c47fec0942fa0
+
 ##Liftoff
 vungle.com,67797c2daeb0a9001107c535,DIRECT,c107d686becd2d77
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
